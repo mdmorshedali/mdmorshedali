@@ -96,7 +96,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/mdmorshedali/BITCODE-Manager-Lottery">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://raw.githubusercontent.com/mdmorshedali/BITCODE-Manager-Lottery/cb0b3643796bc01a7d8d81d754db91f80e00007a/BITCODE%20Manager%20Lottery.svg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="BITCODE-Manager-Lottery" />
         </a>
       </p>
     </td>
