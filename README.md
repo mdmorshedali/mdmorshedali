@@ -120,3 +120,51 @@
   </tr>
 </table>
 <br />
+
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmorshedali&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:morshedali161@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="morshedali161@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/kiran__a__n" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/Kiran1689" target="_blank">
+<img src="./github.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://dev.to/dev_kiran" target="_blank">
+<img src="./dev_to.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
