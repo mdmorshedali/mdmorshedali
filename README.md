@@ -1,12 +1,12 @@
-![mdmorshedali Banner Image](https://img001.prntscr.com/file/img001/qdTi6H0jTpCiyZR6tQ6RtA.png)<!--Banner-->
+![mdmorshedali Banner Image](https://github.com/mdmorshedali/mdmorshedali/blob/main/banner.png?raw=true)<!--Banner-->
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://github.com/mdmorshedali/mdmorshedali/blob/main/Popper.psd.full.png?raw=true">
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Morshed! 
+# <img src="https://github.com/mdmorshedali/mdmorshedali/blob/main/blob-sunglasses.gif?raw=true" width="30"/> ɪ'ᴍ Morshed! 
 *Zoho Developer (Developer / Programmer)*
 <br /> 
 
@@ -27,14 +27,14 @@
   <img src="https://komarev.com/ghpvc/?username=mdmorshedali&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="mdmorshedali" style="padding-right:20px;" />
 </p>
 
----
+--- 
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Website i have Developed</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mdmorshedali/mdmorshedali/blob/main/Skills_Animation_Dark.gif?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mdmorshedali/mdmorshedali/blob/main/Skills_Animation_White.gif?raw=true">
+  <img align="left" alt="GIF description" src="https://github.com/mdmorshedali/mdmorshedali/blob/main/Skills_Animation_White.gif?raw=true">
 </picture>
 <br />
 
@@ -217,27 +217,27 @@
 <div align="center">
   
 <a href="mailto:morshedali161@gmail.com" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width=50 height=50 alt="morshedali161@gmail.com" style="margin-bottom: 5px;" />
+<img src="https://github.com/mdmorshedali/mdmorshedali/blob/main/gmail.png?raw=true" width=50 height=50 alt="morshedali161@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/MdMorshedAli0" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/128/2504/2504947.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<img src="https://github.com/mdmorshedali/mdmorshedali/blob/main/twitter.png?raw=true" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/its_morshed" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/128/3955/3955027.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<img src="https://github.com/mdmorshedali/mdmorshedali/blob/main/instagram.png?raw=true" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/mdmorshedali" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/128/2504/2504911.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<img src="https://github.com/mdmorshedali/mdmorshedali/blob/main/github.png?raw=true" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/md-morshed-ali/" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/128/3488/3488338.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<img src="https://github.com/mdmorshedali/mdmorshedali/blob/main/linkedin.png?raw=true" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://api.whatsapp.com/send/?phone=%2B8801580477232&text&type=phone_number&app_absent=0" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/128/3938/3938058.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<img src="https://github.com/mdmorshedali/mdmorshedali/blob/main/whatsapp.png?raw=true" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
