@@ -155,7 +155,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/md-morshed-ali/" target="_blank">
-<img src="https://www.flaticon.com/free-icon/linkedin_2504923" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<img src="https://cdn-icons-png.flaticon.com/128/3488/3488338.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://api.whatsapp.com/send/?phone=%2B8801580477232&text&type=phone_number&app_absent=0" target="_blank">
