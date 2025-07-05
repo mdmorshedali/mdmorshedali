@@ -139,7 +139,7 @@
 <div align="center">
   
 <a href="mailto:morshedali161@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="morshedali161@gmail.com" style="margin-bottom: 5px;" />
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width=50 height=50 alt="morshedali161@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/kiran" target="_blank">
