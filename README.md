@@ -31,7 +31,7 @@
 ---
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Website i have Developed</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif">
@@ -48,9 +48,9 @@
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
-  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
-  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
+  <li><a href="https://iqlab.zohosites.in/">🔥Web Development: Developed Website for IQ Lab UAS Company  🤖</a></li>
+  <li><a href="https://www.dekkersit.com/">🔥Web Development: Developed Website for Dekkers IT Netharlands Company🙂</a></li>
+  <li><a href="https://www.uncloudit.com/">Web Development: Developed Website for UN Cloudit UAS Company🤯</a></li>
 </ul>
 <br />
 <br />
