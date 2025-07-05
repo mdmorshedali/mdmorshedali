@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [Bit Code Technologies Limited](https://bitcode.pro/)
 - 🏙 A lifetime insider and Mentor at [CloudFlow Solutions](https://www.cloudflowsolutions.de/)
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- ✍ I write Deluge Script Code for [Infitar It ](https://infitarit.com/)
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Website](https://www.cloudflowsolutions.de/) for more details about me.
 <!--End Intro-->
