@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/aa5ad66a-5936-407a-badb-d0ee1a1b23f4)<!--Banner-->
-![mdmorshedali Banner Image](https://img001.prntscr.com/file/img001/qdTi6H0jTpCiyZR6tQ6RtA.png)
+![mdmorshedali Banner Image](https://img001.prntscr.com/file/img001/qdTi6H0jTpCiyZR6tQ6RtA.png)<!--Banner-->
 
 <!--Night Owl image-->
 <div>
