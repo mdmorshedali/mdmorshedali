@@ -1,4 +1,4 @@
-<!--Banner-->
+![image](https://github.com/user-attachments/assets/aa5ad66a-5936-407a-badb-d0ee1a1b23f4)<!--Banner-->
 ![mdmorshedali Banner Image](https://img001.prntscr.com/file/img001/qdTi6H0jTpCiyZR6tQ6RtA.png)
 
 <!--Night Owl image-->
@@ -142,20 +142,20 @@
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width=50 height=50 alt="morshedali161@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/kiran" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<a href="https://x.com/kin" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/its_morshed" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/" target="_blank">
-<img src="./github.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<a href="https://www.githubcom/mdmorshedali" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in//" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/md-morshed-ali/" target="_blank">
+<img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BLJguXBlBRqmmKUCo6ziFXA%3D%3D" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://dev.to/" target="_blank">
