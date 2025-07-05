@@ -16,7 +16,7 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV CommunityBit Code Technologies Limited](https://bitcode.pro/)
+- 💁‍♂️ Trusted member and Moderator at [Bit Code Technologies Limited](https://bitcode.pro/)
 - 🏙 A lifetime insider and Mentor at [CloudFlow Solutions](https://www.cloudflowsolutions.de/)
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
 - ❤ Contributing to Open Source.
@@ -25,7 +25,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="mdmorshedali" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=mdmorshedali&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="mdmorshedali" style="padding-right:20px;" />
 </p>
 
 ---
