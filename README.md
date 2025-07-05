@@ -46,13 +46,35 @@
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
   
-<h3 align="left">Latest Blog Posts</h3>
+<h3 align="left">Latest Web Development Project</h3>
 <ul align="left">
-  <li><a href="https://iqlab.zohosites.in/">🔥Web Development: Developed Website for IQ Lab UAS Company  🤖</a></li>
-  <li><a href="https://www.dekkersit.com/">🔥Web Development: Developed Website for Dekkers IT Netharlands Company🙂</a></li>
-  <li><a href="https://www.uncloudit.com/">Web Development: Developed Website for UN Cloudit UAS Company🤯</a></li>
+  <li><a href="https://iqlab.zohosites.in/">🔥Developed Website for IQ Lab UAS Company  🤖</a></li>
+  <li><a href="https://www.dekkersit.com/">🔥Developed Website for Dekkers IT Netharlands Company🙂</a></li>
+  <li><a href="https://www.uncloudit.com/">🔥Developed Website for UN Cloudit UAS Company🤯</a></li>
 </ul>
 <br />
 <br />
 <br />
 <br />
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/mdmorshedali">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=mdmorshedali&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=mdmorshedali&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=mdmorshedali&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/mdmorshedali/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+<br />
+
