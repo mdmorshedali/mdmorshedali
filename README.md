@@ -142,24 +142,24 @@
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width=50 height=50 alt="morshedali161@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/kin" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<a href="https://x.com/MdMorshedAli0" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/2504/2504947.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/its_morshed" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<img src="https://cdn-icons-png.flaticon.com/128/3955/3955027.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/mdmorshedali" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<img src="https://cdn-icons-png.flaticon.com/128/2504/2504911.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/md-morshed-ali/" target="_blank">
-<img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BLJguXBlBRqmmKUCo6ziFXA%3D%3D" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<img src="https://www.flaticon.com/free-icon/linkedin_2504923" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
+<a href="https://api.whatsapp.com/send/?phone=%2B8801580477232&text&type=phone_number&app_absent=0" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/128/3938/3938058.png" width=50 height=50 alt="mdmorshedali" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
