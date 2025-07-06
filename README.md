@@ -20,6 +20,7 @@
 - ✍ I write Deluge Script Code for [Infitar It ](https://infitarit.com/)
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Website](https://www.cloudflowsolutions.de/) for more details about me.
+- ✆ Connect me with [Whatsapp](https://wa.me/+8801580477232).
 <!--End Intro-->
 
 <!--Profile Count Badge-->
