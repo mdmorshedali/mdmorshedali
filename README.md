@@ -15,11 +15,11 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [Bit Code Technologies Limited](https://bitcode.pro/)
+- 💁‍♂️ Trusted member and Developer at [Bit Code Technologies Limited](https://bitcode.pro/)
 - 🏙 A lifetime insider and Mentor at [CloudFlow Solutions](https://www.cloudflowsolutions.de/)
 - ✍ I write Deluge Script Code for [Infitar It ](https://infitarit.com/)
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Website](https://www.cloudflowsolutions.de/) for more details about me.
+- 💻 Visit my [Website](https://www.cloudflowsolutions.de/) for more details about my services.
 - ✆ Connect me with [Whatsapp](https://wa.me/+8801580477232).
 <!--End Intro-->
 
