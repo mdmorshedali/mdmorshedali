@@ -45,11 +45,11 @@
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
   
-<h3 align="left">Latest Web Development Project</h3>
+<h3 align="left">Latest Project</h3>
 <ul align="left">
-  <li><a href="https://iqlab.zohosites.in/">🔥Developed Website for IQ Lab UAS Company  🤖</a></li>
-  <li><a href="https://www.dekkersit.com/">🔥Developed Website for Dekkers IT Netharlands Company🙂</a></li>
-  <li><a href="https://www.uncloudit.com/">🔥Developed Website for UN Cloudit UAS Company🤯</a></li>
+  <li><a href="https://iqlab.zohosites.in/">🔥IQ Lab UAS Company  🤖</a></li>
+  <li><a href="https://www.dekkersit.com/">🔥Dekkers IT Netharlands Company🙂</a></li>
+  <li><a href="https://www.uncloudit.com/">🔥UN Cloudit UAS Company🤯</a></li>
 </ul>
 <br />
 <br />
