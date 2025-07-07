@@ -11,7 +11,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I’m a professional web Designer & Developer, and Zoho Expert, I have experience in setting up Zoho CRM, Zoho Creator apps and other Zoho business apps for clients all over the world and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I’m a professional web Designer & Developer, Zoho Expert. I have experience in setting up Zoho CRM, Zoho Creator apps and other Zoho business apps for clients all over the world and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
