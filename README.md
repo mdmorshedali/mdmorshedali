@@ -70,7 +70,7 @@
   </a>
 </p>
 <br /> -->
-
+<h2 align="center">🔥 Sᴛʀᴇᴀᴋ Sᴛᴀᴛs 🔥</h2>
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=mdmorshedali&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=ED6016">
   
@@ -94,7 +94,7 @@
         <a href="https://github.com/mdmorshedali">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmorshedali&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
-      </p>
+<!--       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
@@ -102,7 +102,7 @@
         <a href="https://github.com/mdmorshedali">
           <img align="center" src="https://streak-stats.demolab.com?user=mdmorshedali&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
-      </p>
+      </p> -->
     </td>
   </tr>
   <tr>
