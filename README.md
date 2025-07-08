@@ -71,13 +71,7 @@
 </p>
 <br />
 <h2 align="center">🔥 Sᴛʀᴇᴀᴋ Sᴛᴀᴛs 🔥</h2>
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=mdmorshedali&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=ED6016">
-  
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmorshedali&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=ED6016">
- 
- <img src="https://github-readme-streak-stats.herokuapp.com?user=mdmorshedali&theme=darcula&hide_border=true&background=FFFFFF00&ring=04AA6D&fire=04AA6D&currStreakLabel=04AA6D">
-</p>
+
 
 <br />
 
@@ -109,7 +103,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/mdmorshedali/BITCODE-Manager-Lottery">
+        <a href="https://mdmorshedali.github.io/BITCODE-Manager-Lottery/">
           <img align="center" width="470" src="https://raw.githubusercontent.com/mdmorshedali/BITCODE-Manager-Lottery/cb0b3643796bc01a7d8d81d754db91f80e00007a/BITCODE%20Manager%20Lottery.svg" />
         </a>
       </p>
